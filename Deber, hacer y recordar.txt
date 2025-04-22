@@ -1,0 +1,15 @@
+Deber, hacer y recordar:
+
+----
+- Tratar de poner todas las variables en la misma escala o similar escala
+- Probar estimaciones con 5 a 10 variables para ver a partir de donde falla
+- Recordar que quitando el Excel "result" del BEAR 2 por uno en blanco puede que sea lo que haga que se si se escriban los resultados en el Excel.
+- Probar en estimar lo anterior pero que el toolbox muestre los graficos
+- Revisar anteriores códigos de Matlab
+
+
+21/04/25
+- Solo se pudo estimar el modelo en Windowns. Los nombres asignados a los modelos en
+el código no deben contener porcentajes o símbolos extraños pues no se guardarán los resultados en el Excel. De preferencia que no tenga espacios sino "_".
+- Antes de estimar un modelo corremos "clc;clear;" para empezar de cero, script "bear_settings" para especificar el modelo, y finalmente, BEAR_main para correr todo. Luego guardamos los resultados gráficos en la carpeta "Estimaciones gráficas" y comprobamos que se hayan insertado bien las estimaciones en el Excel.
+- Queda pendiente trasladar el toolbox a la carpeta de tesis en GitHub para poder hacer cambios desde distintas consolas. A futuro trasladaremos toda la información en la nube.
