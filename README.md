@@ -1,7 +1,6 @@
-# Trabajo de investigación de Licencitura
-Empleo de un modelo VAR bayesiano con coeficientes cambiantes en el tiempo para estimar los efectos de corto plazo de la inclusión financiera en agregados macroeconómicos y bancarios para Perú.
+# Research project for Bachelor's degree
+Use of a Bayesian VAR model with time-varying coefficients to estimate the short-term effects of financial inclusion on macroeconomic and banking aggregates for Peru.
 
-Se analiza el periodo 2001 a 2022 de manera trimestral, con un total de 88 observaciones. Se emplean variables domésticas, bancarias y extranjeras en el modelo. Los datos son sacados del BCRP, la SBS y de Bloomberg.
+The period from 2001 to 2022 is analyzed quarterly, with a total of 88 observations. Domestic, banking, and foreign variables are used in the model. The data is sourced from BCRP, SBS, and Bloomberg.This project is supervised under the direction of Professor Jefferson Martínez, lecturer for the Thesis Seminar course at PUCP.
 
-Este proyecto es supervisado bajo la dirección del profesor Jefferson Martínez, profesor del curso de Seminario de Tesis de la PUCP.
-Se agregarán información detallada más adelante.
+More detailed information will be added later.
