@@ -73,6 +73,6 @@ for i = 1:numVars
     % if ~exist(outputDir, 'dir')  % Verificar si la carpeta existe
     %    mkdir(outputDir);  % Crear la carpeta si no existe
     % end
-    filename_out = fullfile(outputDir, [sheetNames{i} '.png']);  % Ruta completa del archivo
-    exportgraphics(gcf, filename_out, 'Resolution', 300);
+    % filename_out = fullfile(outputDir, [sheetNames{i} '.png']);  % Ruta completa del archivo
+    % exportgraphics(gcf, filename_out, 'Resolution', 300);
 end
